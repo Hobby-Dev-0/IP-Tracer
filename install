@@ -1,5 +1,5 @@
 # Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
+# Author :- LEGEND X
 # Date :- 5/8/2018
 
 if [ -e  /usr/lib/sudo ];then
